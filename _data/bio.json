@@ -1,15 +1,14 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kawailani Luat",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://kawailani.github.io/images/molly.png",
+    "email": "kawailani.luat@student.chaminade.edu",
+    "website": "https://kawailani.github.io",
+    "summary": "I am studying for a B.S. in Forensic Science, minor in Chemistry, and certificate in Data Science. I expect to graduate in Spring, 2023.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "3140 Waialae Ave",
+      "postalCode": "96814",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,32 +16,17 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "kawailani",
+        "url": "http://github.com/kawailani"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Forensic Science",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Data Science",
+        "Cyber Security"
       ]
     },
     {
@@ -61,12 +45,8 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "R",
+        "Python"
       ]
     },
     {
@@ -74,23 +54,18 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Chaminade University of Honolulu, Honolulu, HI",
+      "area": "Forensic Science (expected Spring, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-09-28",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
+      "gpa": "3.8"
     }
   ],
   "work": [
