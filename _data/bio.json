@@ -30,12 +30,12 @@
       ]
     },
     {
-      "name": "data mining",
+      "name": "Cyber Security",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Data Science",
       "keywords": [
       ]
     }
@@ -70,15 +70,14 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Chaminade School of Nursing and Health Professions",
+      "position": "Student Worker",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2021-02-27",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Floats between various departments to assist in various tasks.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and oversee department tasks"
       ]
     },
     {
